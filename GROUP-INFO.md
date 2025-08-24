@@ -24,3 +24,8 @@ UI/UX & Design: UI/UX Design, Database Management, Microsoft SQL Server Manageme
 
 Soft Skills: Problem Solving, Critical Thinking, Leadership, Teamwork, Communication, Time Management, Adaptability, Attention to Detail, Project Management, Conflict Resolution, Decision-Making, Analytical Thinking
 
+
+Name: Carlota Najera Alvarez 
+Programming Languages: Java, JavaScript, SQL, HTML 
+Focus Areas: UI/UX Design, Technical Documentation, SCADA Systems, 
+Soft Skills: Organization, Adaptability, Mentorship, Problem Solving 
